@@ -1,0 +1,1 @@
+web: gunicorn LaunchAwareService.wsgi --log-file -

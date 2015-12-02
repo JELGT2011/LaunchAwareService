@@ -1,0 +1,7 @@
+dj-database-url
+Django
+django-postgrespool
+gunicorn
+psycopg2
+SQLAlchemy
+whitenoise
